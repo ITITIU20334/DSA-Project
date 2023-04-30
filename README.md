@@ -14,7 +14,7 @@ Clone and change directory:
 
 # Technologies
 - Language: [JAVA](https://www.java.com/en/)
-- Framework: [IntelliJ](https://www.jetbrains.com/idea/), [Visual Studio Code](https://code.visualstudio.com)
+- Framework: [IntelliJ](https://www.jetbrains.com/idea/), [Visual Studio Code](https://code.visualstudio.com), [Eclipse](https://eclipseide.org/)
 
 # How to play:question:
 Each will place their ships of various sizes on a 10x10 board. The player each takes turns to "shoot", the player will know opposing player's ship by guessing their opponent's ships position. After each guess, the game will let the player know if their guess is a "hit" or "miss". A ship is "sunk" when the player have shot all of the positions of the ship. The player wins when they have sunk all of their opponent's ships.
