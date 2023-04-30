@@ -6,7 +6,7 @@ Battleship is a classic strategy game. This game is the product of the final pro
 | Bùi Nhật Quang Trường | ITITIU20333 |    
 | Hà Nguyễn             | ITITWE21100 |    
 | Trần Đình Hữu An      | ITITWE21059 |         
-| Nguyễn Quang Trườngn  | ITITIU20334 |     
+| Nguyễn Quang Trường  | ITITIU20334 |     
 
 # Installation
 Clone and change directory:
