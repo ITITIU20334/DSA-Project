@@ -107,10 +107,10 @@ public class UIManagePanel extends UIJPanelBG {
 		reset.setText("reset");
 
 		
-		ImageIcon giocaImg = new ImageIcon(getClass().getResource("/res/images/gioca.png"));
-		ImageIcon giocaImgOver = new ImageIcon(getClass().getResource("/res/images/giocaOver.png"));
-		start = new JButton(giocaImg);
-		start.setRolloverIcon(giocaImgOver);
+		ImageIcon startImg = new ImageIcon(getClass().getResource("/res/images/gioca.png"));
+		ImageIcon startImgOver = new ImageIcon(getClass().getResource("/res/images/giocaOver.png"));
+		start = new JButton(startImg);
+		start.setRolloverIcon(startImgOver);
 		start.setBorder(null);
 		start.setOpaque(false);
 		start.setBorderPainted(false);
